@@ -1,2 +1,1 @@
-# Elevate-Labs-Task-4
-Aggregate Functions and Grouping
+This repository contains SQL queries for Task 4: Aggregate Functions and Grouping in the Library Management System database. The queries demonstrate the use of aggregate functions such as COUNT and AVG to summarize data, GROUP BY to categorize results by authors, members, or publication years, and HAVING to filter grouped data. The script also includes examples of ranking members by total loans and identifying years with multiple books published.
